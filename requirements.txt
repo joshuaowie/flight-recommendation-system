@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+matplotlib
+requests
+typing
+plotly
+chart_studio
+cufflinks
